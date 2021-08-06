@@ -15,6 +15,7 @@ export default function Usestates() {
     })
     useEffect(() => {
         // Update the document title using the browser API
+        console.log('page reloading..git ')
         console.log('every time');
       });
       useEffect(() => {
